@@ -1,0 +1,1 @@
+/usr/bin/c++     CMakeFiles/SimpleTetris.dir/src/main.cpp.o CMakeFiles/SimpleTetris.dir/src/tetrimino.cpp.o CMakeFiles/SimpleTetris.dir/src/game.cpp.o CMakeFiles/SimpleTetris.dir/src/renderer.cpp.o  -o SimpleTetris  -lSDL2 
